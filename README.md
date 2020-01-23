@@ -6,9 +6,9 @@ Please treat this document as the hub of all other documentation for the Mobile 
 ## Important Links
 
 - [Glossary](https://github.com/Pariyatti/pariyatti-mobile-app-spike/blob/master/GLOSSARY.md)
+- [Questions](https://github.com/Pariyatti/pariyatti-mobile-app-spike/blob/master/QUESTIONS.md)
 - [Team Roster](https://drive.google.com/drive/folders/1RTAw2izD3m9hb79DJE2uu-4qepFby0px?usp=sharing) (private)
 - [Design Docs](https://drive.google.com/drive/folders/1Iga6z-5tndLJ411XG5ibimLwNC5VZDVv?usp=sharing) (public)
-
 
 ## Statement of Purpose
 
