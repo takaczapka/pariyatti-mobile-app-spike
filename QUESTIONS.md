@@ -7,6 +7,11 @@
 
 - How do we manage / share secrets (passwords, keys)?
 
+- How do we chat / communicate?
+    - Email?
+    - Calls? When and how?
+    - Group chat for devs?
+
 
 ## Ops
 
