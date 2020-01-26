@@ -38,6 +38,7 @@ Not much spiking is required here, but we should be able to answer these questio
 - [ ] offline-first: how easy is text search on local storage?
 - [ ] audio playback across platforms?
 - [ ] video playback across platforms?
+- [ ] what libraries exist for convenience already? (ex. social login, drop-in media playlist, etc.)
 
 **Lower Priority**
 
